@@ -1,7 +1,7 @@
 {
   "name": "grunt-htmlcleancompress",
   "description": "Grunt plugin for HtmlCleanCompress",
-   "version": "1.0.0",
+   "version": "1.0.2",
   "keywords": [
     "grunt", "htmlcleancompress"
    ],
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/wwwouaiebe/Grunt-HtmlCleanCompress.git"
   },
   "engines": {
-    "node": ">=16.13.0"
+    "node": ">=18.18.2"
   },
   "author": "wwwouaiebe",
   "license": "GPL-3.0",
